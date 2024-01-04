@@ -1,0 +1,32 @@
+**{
+    margin: 0px;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    padding: 1.5%;
+    gap: 8%;
+}
+.innerInfo{
+    max-width: 10%;
+}
+.innerInfoMain{
+    max-width: 18%;
+}
+.highlight{
+    color: yellow;
+    font-size: 23px;
+}
+.numbers{
+    display: flex;
+    gap: 15%;
+    justify-content: right;
+    max-width: 70%;
+}
+.innerInfo h4, .innerInfoMain h4{
+    font-size: 12px;
+    font-weight: 300;
+}
